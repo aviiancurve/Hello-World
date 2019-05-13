@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Hello World Threat",
+    "owner": "Avijit",
+    "description": "The system prints a hello world to stdout"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "AM"
+  }
+}
